@@ -8,8 +8,8 @@
 	<version>1.0</version>
 	<packaging>jar</packaging>
 
-	<name>Charter connector</name>
-	<description>An SDK to allow for easy connection to the Charter server</description>
+	<name>Connector</name>
+	<description>An SDK to allow for easy connection to the chrisbas rem-rec-server</description>
 	<url>http://maven.apache.org</url>
 
 	<licenses>
