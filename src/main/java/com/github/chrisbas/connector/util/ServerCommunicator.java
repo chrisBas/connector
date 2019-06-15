@@ -1,14 +1,13 @@
-package org.charter.connector.util;
+package com.github.chrisbas.connector.util;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.Socket;
 
-import org.charter.connector.error.CommunicationException;
-import org.charter.connector.model.RequestMessage;
-import org.charter.connector.model.ResponseMessage;
-
+import com.github.chrisbas.connector.error.CommunicationException;
+import com.github.chrisbas.connector.model.RequestMessage;
+import com.github.chrisbas.connector.model.ResponseMessage;
 import com.google.gson.Gson;
 
 public class ServerCommunicator {

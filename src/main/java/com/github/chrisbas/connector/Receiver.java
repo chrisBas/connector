@@ -1,13 +1,13 @@
-package org.charter.connector;
+package com.github.chrisbas.connector;
 
-import org.charter.connector.error.CommunicationException;
-import org.charter.connector.model.Command;
-import org.charter.connector.model.PasswordListner;
-import org.charter.connector.model.RequestMessage;
-import org.charter.connector.model.ResponseMessage;
-import org.charter.connector.model.Status;
-import org.charter.connector.model.StatusResult;
-import org.charter.connector.util.ServerCommunicator;
+import com.github.chrisbas.connector.error.CommunicationException;
+import com.github.chrisbas.connector.model.Command;
+import com.github.chrisbas.connector.model.PasswordListner;
+import com.github.chrisbas.connector.model.RequestMessage;
+import com.github.chrisbas.connector.model.ResponseMessage;
+import com.github.chrisbas.connector.model.Status;
+import com.github.chrisbas.connector.model.StatusResult;
+import com.github.chrisbas.connector.util.ServerCommunicator;
 
 public class Receiver {
 

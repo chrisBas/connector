@@ -1,6 +1,6 @@
-package org.charter.connector.error;
+package com.github.chrisbas.connector.error;
 
-import org.charter.connector.model.StatusResult;
+import com.github.chrisbas.connector.model.StatusResult;
 
 public class CommunicationException extends Exception {
 

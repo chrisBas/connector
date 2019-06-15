@@ -1,4 +1,4 @@
-package org.charter.connector.model;
+package com.github.chrisbas.connector.model;
 
 public interface PasswordListner {
 	

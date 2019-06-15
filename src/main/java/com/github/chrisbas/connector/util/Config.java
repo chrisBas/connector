@@ -1,4 +1,4 @@
-package org.charter.connector.util;
+package com.github.chrisbas.connector.util;
 
 public class Config {
 	
